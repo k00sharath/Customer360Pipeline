@@ -22,7 +22,7 @@ A data pipeline that is built for filtering closed order data and pushing the da
          ii. Refer to this article for hive installation on ubuntu [link](https://www.guru99.com/installation-configuration-hive-mysql.html)
          iii. Refer to this article for mysql installation on ubuntu [link](https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04)
          iv. Refer to this article for hbase installation on ubuntu [link](https://www.guru99.com/hbase-installation-guide.html)
-   2. Installing docker for running airflow container
+   3. Installing docker for running airflow container
 
          i. Refer to this documentation for installing docker [link](https://docs.docker.com/engine/install/)
          ii. For running airflow container use the docker-compose.yaml [link]
