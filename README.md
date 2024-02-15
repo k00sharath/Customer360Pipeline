@@ -29,14 +29,16 @@ A data pipeline that is built for filtering closed order data and pushing the da
    2. Installing docker for running airflow container
 
          i. Refer to this documentation for installing docker [link](https://docs.docker.com/engine/install/)
+         <br>
          ii. For running airflow container use the docker-compose.yaml [link]
-          ```docker
+          ```bash
               # Clone the repo and open a terminal and cd into repo folder and run the following command
               docker-compose up
           ```
    
-   3. Create a SSH connection id for connecting to EC2 instance refer to this article(Note: go to [link](https://localhost:8080) for accessing the Airflow UI) [link](https://docs.aws.amazon.com/mwaa/latest/userguide/samples-ssh.html)
-   4. Create a Slack webhook integration and configure slack webhook connection in airflow (To create a connection goto admin section in Airflow UI and click on connections)
+   4. Create a SSH connection id for connecting to EC2 instance refer to this article(Note: go to [link](https://localhost:8080) for accessing the Airflow UI) [link](https://docs.aws.amazon.com/mwaa/latest/userguide/samples-ssh.html)
+      
+   5. Create a Slack webhook integration and configure slack webhook connection in airflow (To create a connection goto admin section in Airflow UI and click on connections)
        
          i. Refer to this article for creating slack webhook [link](https://api.slack.com/messaging/webhooks)
          ii. Refer to this article for configuring slack webhook in airflow  [link](https://airflow.apache.org/docs/apache-airflow-providers-slack/stable/connections/slack-incoming-webhook.html) 
