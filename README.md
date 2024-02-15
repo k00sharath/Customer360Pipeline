@@ -3,12 +3,7 @@
 ### Description
 A data pipeline that is built for filtering closed order data and pushing the data to Hive and Hbase on a scheduled basis with a notification for success and failure of a pipeline
 
-### Tech stack used
-   <p float="left>
 
-     <img src="">
-  
-   </p>
 
 ### Steps involved in the Pipeline
    1. Fetching the orders data from S3 bucket
