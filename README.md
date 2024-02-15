@@ -30,9 +30,11 @@ A data pipeline that is built for filtering closed order data and pushing the da
 
          i. Refer to this documentation for installing docker [link](https://docs.docker.com/engine/install/)
          <br>
-         ii. For running airflow container use the docker-compose.yaml [link]
+         ii. For running airflow container use the docker-compose.yaml
           ```bash
+             
               # Clone the repo and open a terminal and cd into repo folder and run the following command
+
               docker-compose up
           ```
    
