@@ -31,12 +31,12 @@ A data pipeline that is built for filtering closed order data and pushing the da
          i. Refer to this documentation for installing docker [link](https://docs.docker.com/engine/install/)
          <br>
          ii. For running airflow container use the docker-compose.yaml
-          ```bash
+         ```bash
              
               # Clone the repo and open a terminal and cd into repo folder and run the following command
 
               docker-compose up
-          ```
+         ```
    
    4. Create a SSH connection id for connecting to EC2 instance refer to this article(Note: go to [link](https://localhost:8080) for accessing the Airflow UI) [link](https://docs.aws.amazon.com/mwaa/latest/userguide/samples-ssh.html)
       
