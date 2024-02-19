@@ -9,7 +9,7 @@ A data pipeline that is built for filtering closed order data and pushing the da
 <img align="left" alt="HBase" src="https://img.shields.io/badge/HBase-D22128.svg?style=for-the-badge&logo=apache&logoColor=#D22128">
 <img align="left" alt="Airflow" src="https://img.shields.io/badge/Apache%20Airflow-017CEE.svg?style=for-the-badge&logo=apacheairflow&logocolor=green">
 
-<br><br><br><br><br>
+<br><br>
 
 <img align="left" alt="Hadoop" src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF.svg?style=for-the-badge&logo=Apache-Hadoop&logoColor=black">
 <img align="left" alt="Hive" src="https://img.shields.io/badge/Apache%20Hive-FDEE21.svg?style=for-the-badge&logo=Apache-Hive&logoColor=black">
