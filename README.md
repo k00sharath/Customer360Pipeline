@@ -8,8 +8,8 @@ A data pipeline that is built for filtering closed order data and pushing the da
 <img align="left" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white"/>
 <img align="left" alt="HBase" src="https://img.shields.io/badge/HBase-D22128.svg?style=for-the-badge&logo=apache"/>
 
-<br>
-<br>
+<br></br>
+<br></br>
 ### Steps involved in the Pipeline
    1. Fetching the orders data from S3 bucket
    2. Creating a customers info table in mysql by loading the data from customers info file [link]
