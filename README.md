@@ -32,13 +32,13 @@ A data pipeline that is built for filtering closed order data and pushing the da
 ### Installation
    1. Installing hadoop,hive,mysql db and hbase in an EC2 instance and creating a connection id in airflow for executing the pipeline in EC2 instance
       
-         i. Refer to this article for hadoop installation on ubuntu [link](https://www.guru99.com/how-to-install-hadoop.html)
+         i.<a href="https://www.guru99.com/how-to-install-hadoop.html" >Refer to this article for hadoop installation on ubuntu </a>
          <br>
-         ii. Refer to this article for hive installation on ubuntu [link](https://www.guru99.com/installation-configuration-hive-mysql.html)
+         ii. <a href="https://www.guru99.com/installation-configuration-hive-mysql.html">Refer to this article for hive installation on ubuntu </a>
          <br>
-         iii. Refer to this article for mysql installation on ubuntu [link](https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04)
+         iii. <a href="https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04">Refer to this article for mysql installation on ubuntu </a>
          <br>
-         iv. Refer to this article for hbase installation on ubuntu [link](https://www.guru99.com/hbase-installation-guide.html)
+         iv. <a href="https://www.guru99.com/hbase-installation-guide.html">Refer to this article for hbase installation on ubuntu</a>
       
    2. Installing docker for running airflow container
 
