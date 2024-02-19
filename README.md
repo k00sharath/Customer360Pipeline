@@ -56,7 +56,7 @@ A data pipeline that is built for filtering closed order data and pushing the da
       (Note: go to [airflow-ui](https://localhost:8080) for accessing the Airflow UI)
    5. Create a Slack webhook integration and configure slack webhook connection in airflow (To create a connection goto admin section in Airflow UI and click on connections)
        
-         i.   <a href="https://api.slack.com/messaging/webhooks">Refer to this article for creating slack webhook</a>
+         i.   <a href="https://api.slack.com/messaging/webhooks">Refer to this article for creating slack webhook</a><br>
          ii.  <a href="https://airflow.apache.org/docs/apache-airflow-providers-slack/stable/connections/slack-incoming-webhook.html">Refer to this article for configuring slack webhook in airflow</a>
   
   
