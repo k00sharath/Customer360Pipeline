@@ -32,17 +32,17 @@ A data pipeline that is built for filtering closed order data and pushing the da
 ### Installation
    1. Installing hadoop,hive,mysql db and hbase in an EC2 instance and creating a connection id in airflow for executing the pipeline in EC2 instance
       
-         i.<a href="https://www.guru99.com/how-to-install-hadoop.html" >Refer to this article for hadoop installation on ubuntu </a>
+         i.    <a href="https://www.guru99.com/how-to-install-hadoop.html" >Refer to this article for hadoop installation on ubuntu </a>
          <br>
-         ii. <a href="https://www.guru99.com/installation-configuration-hive-mysql.html">Refer to this article for hive installation on ubuntu </a>
+         ii.   <a href="https://www.guru99.com/installation-configuration-hive-mysql.html">Refer to this article for hive installation on ubuntu </a>
          <br>
-         iii. <a href="https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04">Refer to this article for mysql installation on ubuntu </a>
+         iii.  <a href="https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04">Refer to this article for mysql installation on ubuntu </a>
          <br>
-         iv. <a href="https://www.guru99.com/hbase-installation-guide.html">Refer to this article for hbase installation on ubuntu</a>
+         iv.   <a href="https://www.guru99.com/hbase-installation-guide.html">Refer to this article for hbase installation on ubuntu</a>
       
    2. Installing docker for running airflow container
 
-         i. Refer to this documentation for installing docker [link](https://docs.docker.com/engine/install/)
+         i.   <a href="https://docs.docker.com/engine/install/">Refer to this documentation for installing docker</a>
          <br>
          ii. For running airflow container use the docker-compose.yaml
          ```bash
@@ -52,12 +52,12 @@ A data pipeline that is built for filtering closed order data and pushing the da
               docker-compose up
          ```
    
-   4. Create a SSH connection id for connecting to EC2 instance refer to this article(Note: go to [link](https://localhost:8080) for accessing the Airflow UI) [link](https://docs.aws.amazon.com/mwaa/latest/userguide/samples-ssh.html)
-      
+   4. Create a SSH connection id for connecting to EC2 instance <a href="https://docs.aws.amazon.com/mwaa/latest/userguide/samples-ssh.html">refer to this article  </a>
+      (Note: go to [airflow-ui](https://localhost:8080) for accessing the Airflow UI)
    5. Create a Slack webhook integration and configure slack webhook connection in airflow (To create a connection goto admin section in Airflow UI and click on connections)
        
-         i. Refer to this article for creating slack webhook [link](https://api.slack.com/messaging/webhooks)
-         ii. Refer to this article for configuring slack webhook in airflow  [link](https://airflow.apache.org/docs/apache-airflow-providers-slack/stable/connections/slack-incoming-webhook.html) 
+         i.   <a href="https://api.slack.com/messaging/webhooks">Refer to this article for creating slack webhook</a>
+         ii.  <a href="https://airflow.apache.org/docs/apache-airflow-providers-slack/stable/connections/slack-incoming-webhook.html">Refer to this article for configuring slack webhook in airflow</a>
   
   
       
