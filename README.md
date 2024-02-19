@@ -12,8 +12,10 @@ A data pipeline that is built for filtering closed order data and pushing the da
 <img align="left" alt="Hive" src="https://img.shields.io/badge/Apache%20Hive-FDEE21.svg?style=for-the-badge&logo=Apache-Hive&logoColor=black">
 <img align="left" alt="Slack" src="https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=Slack&logoColor=white">
 <br>
-<img align="center" alt="AWSEC2" src="https://img.shields.io/badge/Amazon%20EC2-FF9900.svg?style=for-the-badge&logo=Amazon-EC2&logoColor=white">
-
+<br>
+<p align="center">
+<img alt="AWSEC2" src="https://img.shields.io/badge/Amazon%20EC2-FF9900.svg?style=for-the-badge&logo=Amazon-EC2&logoColor=white">
+</p>
 
 <br>
 
