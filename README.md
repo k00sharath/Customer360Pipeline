@@ -4,7 +4,7 @@
 A data pipeline that is built for filtering closed order data and pushing the data to Hive and Hbase on a scheduled basis with a notification for success and failure of a pipeline
 
 ### Technology Stack:
-<img align="left" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img align="left" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=black">
 <img align="left" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white">
 <img align="left" alt="HBase" src="https://img.shields.io/badge/HBase-D22128.svg?style=for-the-badge&logo=apache&logoColor=#D22128">
 <img align="left" alt="Airflow" src="https://img.shields.io/badge/Apache%20Airflow-017CEE.svg?style=for-the-badge&logo=apacheairflow">
