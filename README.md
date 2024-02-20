@@ -2,6 +2,7 @@
 
 ### Description
 A data pipeline that is built for filtering closed order data and pushing the data to Hive and Hbase on a scheduled basis with a notification for success and failure of a pipeline
+![image](https://github.com/k00sharath/Customer360Pipeline/blob/main/pipeline.png)
  
 ### Technology Stack:
 <img align="left" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
