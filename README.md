@@ -2,6 +2,7 @@
 
 ### Description
 A data pipeline that is built for filtering closed order data and pushing the data to Hive and Hbase on a scheduled basis with a notification for success and failure of a pipeline
+<br>
 ![image](https://github.com/k00sharath/Customer360Pipeline/blob/main/pipeline.png)
  
 ### Technology Stack:
@@ -36,17 +37,17 @@ A data pipeline that is built for filtering closed order data and pushing the da
    1. Installing hadoop,hive,mysql db and hbase in an EC2 instance and creating a connection id in airflow for executing the pipeline in EC2 instance
       
          i.    <a href="https://www.guru99.com/how-to-install-hadoop.html" >Refer to this article for hadoop installation on ubuntu </a>
-         <br>
+         <br><br>
          ii.   <a href="https://www.guru99.com/installation-configuration-hive-mysql.html">Refer to this article for hive installation on ubuntu </a>
-         <br>
+         <br><br>
          iii.  <a href="https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04">Refer to this article for mysql installation on ubuntu </a>
-         <br>
+         <br><br>
          iv.   <a href="https://www.guru99.com/hbase-installation-guide.html">Refer to this article for hbase installation on ubuntu</a>
       
    2. Installing docker for running airflow container
 
          i.   <a href="https://docs.docker.com/engine/install/">Refer to this documentation for installing docker</a>
-         <br>
+         <br><br>
          ii. For running airflow container use the docker-compose.yaml
          ```bash
              
